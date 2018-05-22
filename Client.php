@@ -1,6 +1,6 @@
 <?Php
 
-echo "Clase Cliente";
+echo "Programa Cliente";
 
 ?>
 
